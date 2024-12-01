@@ -1,2 +1,4 @@
 # Edurekha
-It is first Repository
+It is first Repository.
+First commit
+
